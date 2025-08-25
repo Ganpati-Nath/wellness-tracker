@@ -55,7 +55,7 @@ Tailwind CSS
 jsPDF (PDF export)
 
 Deployment
-Deployed on Vercel: Live Demo
+Deployed on Vercel: [Live Demo](https://wellness-tracker-mauve.vercel.app/)
 Notes
 
 Mock data ensures no backend is needed.
