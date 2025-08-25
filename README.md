@@ -87,10 +87,12 @@ It features mocked authentication, CRUD operations for wellness entries, dashboa
 \`\`\`bash
 # Clone repo
 https://github.com/Ganpati-Nath/wellness-tracker.git
+
 cd wellness-tracker
 
 # Install dependencies
 npm install
+
 npm install jspdf
 
 # Run locally
